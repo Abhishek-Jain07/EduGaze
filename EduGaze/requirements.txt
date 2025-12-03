@@ -1,0 +1,16 @@
+PyQt5==5.15.11
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+mss==9.0.2
+pytesseract==0.3.13
+numpy==1.26.4
+pandas==2.2.3
+openpyxl==3.1.5
+matplotlib==3.9.2
+fer==22.5.1
+moviepy==1.0.3
+tensorflow==2.15.1
+
+# Required for window selection feature
+pywin32==306
+
