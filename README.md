@@ -11,7 +11,7 @@ EduGaze is a proof-of-concept, **fully local** Windows desktop application that:
 - **Logs metrics** to `engagement_log.csv`
 - **Exports a final engagement report** to `final_report.xlsx`
 
-No video is recorded and **no data is sent to the cloud**; all processing happens on-device.
+No video is recorded and **no data is sent to the cloud**, all processing happens on-device.
 
 ---
 
